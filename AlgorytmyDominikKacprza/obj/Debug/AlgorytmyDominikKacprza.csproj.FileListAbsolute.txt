@@ -1,0 +1,10 @@
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\bin\Debug\AlgorytmyDominikKacprza.exe.config
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\bin\Debug\AlgorytmyDominikKacprza.exe
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\bin\Debug\AlgorytmyDominikKacprza.pdb
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.csprojAssemblyReference.cache
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\algorytym.Form1.resources
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.Properties.Resources.resources
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.csproj.GenerateResource.cache
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.csproj.CoreCompileInputs.cache
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.exe
+C:\Users\dfkac\source\repos\AlgorytmyDominikKacprza\AlgorytmyDominikKacprza\obj\Debug\AlgorytmyDominikKacprza.pdb
